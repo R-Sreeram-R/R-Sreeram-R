@@ -3,6 +3,9 @@
 
 # 💫 About Me:
 I am a computer science student at BITS-Pilani<br>I like working with python<br>
+# ⚠️ Repository Access Notice
+
+The repositories related to **Market Connectedness** and **(Multimodal) Sentiment Analysis** will be made public after the associated research papers have been published.
 
 
 ## 🌐 Socials:
