@@ -3,6 +3,10 @@
 
 # 💫 About Me:
 I am a computer science student at BITS-Pilani<br>I like working with python<br>
+
+# 📚 Research Paper Updates
+- Sarcasm detection using deep learning is under review (revised and resubmitted) at **International Journal of Machine Learning and Cybernetics (Springer Nature, Q1)**
+
 # ⚠️ Repository Access Notice
 
 The repositories related to **Market Connectedness** and **(Multimodal) Sentiment Analysis** will be made public after the associated research papers have been published.
