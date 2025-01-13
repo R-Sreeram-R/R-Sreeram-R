@@ -6,7 +6,9 @@ I am a computer science student at BITS-Pilani<br>I like working with python<br>
 
 # 📚 Research Paper Updates
 - Sarcasm detection using deep learning is under review (revised and resubmitted) at **International Journal of Machine Learning and Cybernetics (First Author, Springer Nature, Q1)**
-- Current Research: Transformer architectures for multimodal sentiment analysis and financial performance prediction
+
+# 🔬 Current Research
+Transformer architectures for multimodal sentiment analysis (with a focus on sarcasm detection) and context-aware financial performance prediction
 
 # ⚠️ Repository Access Notice
 
